@@ -13,5 +13,5 @@ Limitations:
 Ethical consideration:
     Be careful using versions of this code. People could potentially modify it and use it for malicious purposes.
     Be on the lookout for web versions of this app where you have to enter your password. I do not have any hidden code or implementations that steals your password. However, there is obviously a security concern when you'r einputting your password in a random program. 
-    Doing this can put your security at risk.
+    Doing this can put your security at risk. However, I do not have any malicious intent and this is purely for educational purposes.
 
